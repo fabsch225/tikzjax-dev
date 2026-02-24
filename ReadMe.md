@@ -6,7 +6,7 @@ This Repo unifies the dependencies of tikzjax and obsidian-tikzjax. This is base
 
 # Getting Started
 1. run `npm install` and `npm run build` in the dvi2html directory
-2. run `npm install`, `npm run install-fonts` and `npm run build` in the tikzjax directory
+2. run `npm install`, `npm run install-fonts`, `npm run gen-tex-files` and `npm run build` in the tikzjax directory
 3. run `npm run serve` in the tikzjax directory and look at `demo.html` and `demo2.html`
 
 The WASM files `core.dump.gz` and `tex.wasm.gz` are checked into the repo. In case you want to rebuild them, consult the Dockerfile in the web2js directory
