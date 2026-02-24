@@ -1,0 +1,9 @@
+[submodule "web2js"]
+	path = web2js
+	url = https://github.com/fabsch225/web2js.git
+[submodule "dvi2html"]
+	path = dvi2html
+	url = https://github.com/fabsch225/dvi2html.git
+[submodule "tikzjax"]
+	path = tikzjax
+	url = https://github.com/fabsch225/tikzjax
