@@ -7,3 +7,6 @@
 [submodule "tikzjax"]
 	path = tikzjax
 	url = https://github.com/fabsch225/tikzjax
+[submodule "obsidian-tikzjax"]
+	path = obsidian-tikzjax
+	url = https://github.com/fabsch225/obsidian-tikzjax.git
